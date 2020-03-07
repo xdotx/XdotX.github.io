@@ -5,22 +5,25 @@
 }
 
 /* --- ############# TMPs ############# --- */
+
 h1,h2,h3,h4,.logo-font{
 font-family: "", sans-serif;
 }
 
+
 pre,code,.mono{
  font-family: "", monospace;
 }
+
 
 body{
 font-family: "", sans-serif;
 }
 
 /* --- ############# xxx ############# --- */
-.color-main{color: #;}
-.color-alt{color: #;}
-.color-bg{color: #;}
+.color-main{color: #ff0000;}
+.color-alt{color: #3d3d3d;}
+.color-bg{color: #000;}
 
 /* --- ############# xxx ############# --- */
 
